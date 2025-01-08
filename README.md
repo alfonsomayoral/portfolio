@@ -1,20 +1,20 @@
-# Electrical Engineering & Computer Science
+# Electrical Engineering & Computer Science Student
 
 ## 🎓 Education
 ### **Higher Polytechnic School of the Carlos III University of Madrid, Spain (_Sep 2021 - Present_)**
-#### _Bachelor in Telecommunications Technology Engineering, 4º Year_
+#### [_Bachelor in Telecommunications Technology Engineering, 4º Year_](https://www.uc3m.es/grado/telecomunicacion)
 - **Actual GPA:** 3.4 / 4.0
 ### **University of California, Riverside - Bourns College of Engineering & School of Business (_Sep 2024 - Present_)**
-#### _Exchage Year, Computer Science & Electrical Engineering & Business_
+#### _Exchage Year, [Computer Science](https://www1.cs.ucr.edu/programs/undergraduate/computer-science) & [Electrical Engineering](https://www.ece.ucr.edu/undergraduate-program) & [Business](https://business.ucr.edu/undergraduate/major)_
 -  **Actual GPA:** 4.0 / 4.0
 -  **Relevant Coursework:**
-   - Principles of Engineering Management (_Dec 2024_)
-   - Machine Learning & Data Mining (_Dec 2024_)
-   - Project Planning and Control (_Dec 2024_)
-   - Computer Vision (_Present_)
-   - Mobile Wireless Networks (_Present_)
-   - Data Analysis Methods (_Present_)
-   - Cryptography (_Present_)
+   - [Principles of Engineering Management](https://msol.ucr.edu/courses/engr203) (_Dec 2024_)
+   - [Machine Learning & Data Mining](https://www.coursicle.com/ucr/courses/CS/171/) (_Dec 2024_)
+   - [Project Planning and Control](https://www.coursicle.com/ucr/courses/BUS/128/) (_Dec 2024_)
+   - [Computer Vision](https://www.coursicle.com/ucr/courses/EE/146/) (_Present_)
+   - [Mobile Wireless Networks](https://www.coursicle.com/ucr/courses/CS/169/) (_Present_)
+   - [Data Analysis Methods](https://www.coursicle.com/ucr/courses/CS/105/) (_Present_)
+   - [Cryptography](https://www.coursicle.com/ucr/courses/CS/216/) (_Present_)
   
 ## 💼 Profesional Work Experience
 ### **Campus I.T | Intern & S.A.P Junior Consultor | Madrid (_Sep 2022 - Apr 2024)**
@@ -33,5 +33,12 @@
 - Visual Studio Code, Valgrind, GDB, Jupyter, Eclipse, IntelliJ IDEA, MATLAB IDE, Simulink
 #### Libraries:
 - Pandas, Numpy, Flask, Matplotlib/Seaborn, OpenSSL, Standard C, GLib, libcurl, JDK, JUnit.
+
+## 🌐 Languages 
+- **Spanish** - Native
+- **English** - Fluent
+
+## 💡 Valuable Skills
+- Leadership, Teamwork, Organization, Planning, Public Speaking, Presenting, Creativity, Initiative and Scheduling.
 
 
