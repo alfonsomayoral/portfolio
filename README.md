@@ -18,7 +18,7 @@
 -  **Relevant Coursework:** [Principles of Engineering Management](https://msol.ucr.edu/courses/engr203), [Machine Learning & Data Mining](https://www.coursicle.com/ucr/courses/CS/171/), [Project Planning and Control](https://www.coursicle.com/ucr/courses/BUS/128/), [Computer Vision](https://www.coursicle.com/ucr/courses/EE/146/), [Mobile Wireless Networks](https://www.coursicle.com/ucr/courses/CS/169/), [Data Analysis Methods](https://www.coursicle.com/ucr/courses/CS/105/), [Cryptography](https://www.coursicle.com/ucr/courses/CS/216/)
   
 ## 💼 Profesional Work Experience
-### **Campus I.T | Intern & S.A.P Junior Consultor | Madrid (_Sep 2022 - Apr 2024)**
+### **Campus I.T | Intern & S.A.P Junior Consultor | Madrid (_Sep 2022 - Apr 2024_)**
 - Campus I.T is a Spanish sME consulting S.A.P company dedicated to adapting the system to the requirements of each company and the robotization of manual and repetitive business processes.
 - Work as assistant of an expert in SAP consulting in projects with big companies: El Corte Inglés, Telefónica, Banco Santander, Mapfre.
 
@@ -28,9 +28,9 @@
 - Participation in +8 professional team-building workshops on topics related to data analysis, artificial intelligence, and software development
 
 ## 💻 Technical Skills
-#### **Programming Languages**: Python (Advanced), C (Advanced), Java (Medium), C++ (Medium), MATLAB (Medium), ABAP (Basic), Excel-VisualBasic (Basic)
-#### **Tools**: Visual Studio Code, Valgrind, GDB, Jupyter, Eclipse, IntelliJ IDEA, MATLAB IDE, Simulink
-#### **Libraries**: Pandas, Numpy, Flask, Matplotlib/Seaborn, OpenSSL, Standard C, GLib, libcurl, JDK, JUnit.
+**Programming Languages**: Python (Advanced), C (Advanced), Java (Medium), C++ (Medium), MATLAB (Medium), ABAP (Basic), Excel-VisualBasic (Basic)
+**Tools**: Visual Studio Code, Valgrind, GDB, Jupyter, Eclipse, IntelliJ IDEA, MATLAB IDE, Simulink
+**Libraries**: Pandas, Numpy, Flask, Matplotlib/Seaborn, OpenSSL, Standard C, GLib, libcurl, JDK, JUnit.
 
 ## 🌐 Languages 
 - **Spanish** - Native
