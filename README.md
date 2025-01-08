@@ -5,18 +5,17 @@
 #### [_Bachelor in Telecommunications Technology Engineering, 4º Year_](https://www.uc3m.es/bachelor-degree/telecommunication)
 - **Actual GPA:** 3.4 / 4.0
 - **Relevant Coursework:**
-   - Systems Programming
-   - Electronic components and circuits
-   - Systems Architecture
-   - Microprocessor based digital systems
-   - Communication Theory
-   - Communications networks and services
+   - ⚡ **_Electronics and Hardware Design:_** Electronic components and circuits, Electronic Systems, Microprocessor based digital systems, Integrated circuits and microelectronic, High frequency technology
+   - 🖥️ **_Software Design:_** Systems Programming, Systems Architecture, Switching
+   - 🛰️ **_Telecommunications and Networking:_** Communication Theory, Communications networks and services, Access networks and shared media, Modern theory of detection and estimation, Telematic Applications
   
 ### **University of California, Riverside - Bourns College of Engineering & School of Business (_Sep 2024 - Present_)**
 #### _Exchage Year, [Computer Science](https://www1.cs.ucr.edu/programs/undergraduate/computer-science) & [Electrical Engineering](https://www.ece.ucr.edu/undergraduate-program) & [Business](https://business.ucr.edu/undergraduate/major)_
 -  **Actual GPA:** 4.0 / 4.0
 -  **Relevant Coursework:** [Principles of Engineering Management](https://msol.ucr.edu/courses/engr203), [Machine Learning & Data Mining](https://www.coursicle.com/ucr/courses/CS/171/), [Project Planning and Control](https://www.coursicle.com/ucr/courses/BUS/128/), [Computer Vision](https://www.coursicle.com/ucr/courses/EE/146/), [Mobile Wireless Networks](https://www.coursicle.com/ucr/courses/CS/169/), [Data Analysis Methods](https://www.coursicle.com/ucr/courses/CS/105/), [Cryptography](https://www.coursicle.com/ucr/courses/CS/216/)
-  
+
+## 👨‍💻 Projects
+
 ## 💼 Profesional Work Experience
 ### **Campus I.T | Intern & S.A.P Junior Consultor | Madrid (_Sep 2022 - Apr 2024_)**
 - Campus I.T is a Spanish sME consulting S.A.P company dedicated to adapting the system to the requirements of each company and the robotization of manual and repetitive business processes.
@@ -36,7 +35,7 @@
 
 ## 🌐 Languages 
 - **Spanish** - Native
-- **English** - Fluent
+- **English** - Fluent - B2 Certificate
 
 ## 💡 Valuable Skills
 - Leadership, Teamwork, Organization, Planning, Public Speaking, Presenting, Creativity, Initiative and Scheduling.
