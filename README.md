@@ -15,7 +15,7 @@
 ### **University of California, Riverside - Bourns College of Engineering & School of Business (_Sep 2024 - Present_)**
 #### _Exchage Year, [Computer Science](https://www1.cs.ucr.edu/programs/undergraduate/computer-science) & [Electrical Engineering](https://www.ece.ucr.edu/undergraduate-program) & [Business](https://business.ucr.edu/undergraduate/major)_
 -  **Actual GPA:** 4.0 / 4.0
--  **Relevant Coursework:**[Principles of Engineering Management](https://msol.ucr.edu/courses/engr203) (_Dec 2024_), [Machine Learning & Data Mining](https://www.coursicle.com/ucr/courses/CS/171/) (_Dec 2024_), [Project Planning and Control](https://www.coursicle.com/ucr/courses/BUS/128/) (_Dec 2024_), [Computer Vision](https://www.coursicle.com/ucr/courses/EE/146/) (_Present_), [Mobile Wireless Networks](https://www.coursicle.com/ucr/courses/CS/169/) (_Present_), [Data Analysis Methods](https://www.coursicle.com/ucr/courses/CS/105/) (_Present_), [Cryptography](https://www.coursicle.com/ucr/courses/CS/216/) (_Present_)
+-  **Relevant Coursework:** [Principles of Engineering Management](https://msol.ucr.edu/courses/engr203), [Machine Learning & Data Mining](https://www.coursicle.com/ucr/courses/CS/171/), [Project Planning and Control](https://www.coursicle.com/ucr/courses/BUS/128/), [Computer Vision](https://www.coursicle.com/ucr/courses/EE/146/), [Mobile Wireless Networks](https://www.coursicle.com/ucr/courses/CS/169/), [Data Analysis Methods](https://www.coursicle.com/ucr/courses/CS/105/), [Cryptography](https://www.coursicle.com/ucr/courses/CS/216/)
   
 ## 💼 Profesional Work Experience
 ### **Campus I.T | Intern & S.A.P Junior Consultor | Madrid (_Sep 2022 - Apr 2024)**
