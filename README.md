@@ -29,7 +29,9 @@
 
 ## 💻 Technical Skills
 **Programming Languages**: Python (Advanced), C (Advanced), Java (Medium), C++ (Medium), MATLAB (Medium), ABAP (Basic), Excel-VisualBasic (Basic)
+
 **Tools**: Visual Studio Code, Valgrind, GDB, Jupyter, Eclipse, IntelliJ IDEA, MATLAB IDE, Simulink
+
 **Libraries**: Pandas, Numpy, Flask, Matplotlib/Seaborn, OpenSSL, Standard C, GLib, libcurl, JDK, JUnit.
 
 ## 🌐 Languages 
