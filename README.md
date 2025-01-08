@@ -2,8 +2,15 @@
 
 ## 🎓 Education
 ### **Higher Polytechnic School of the Carlos III University of Madrid, Spain (_Sep 2021 - Present_)**
-#### [_Bachelor in Telecommunications Technology Engineering, 4º Year_](https://www.uc3m.es/grado/telecomunicacion)
+#### [_Bachelor in Telecommunications Technology Engineering, 4º Year_](https://www.uc3m.es/bachelor-degree/telecommunication)
 - **Actual GPA:** 3.4 / 4.0
+- **Relevant Coursework:**
+   - Systems Programming
+   - Electronic components and circuits
+   - Systems Architecture
+   - Microprocessor based digital systems
+   - Communication Theory
+   - Communications networks and services	
 ### **University of California, Riverside - Bourns College of Engineering & School of Business (_Sep 2024 - Present_)**
 #### _Exchage Year, [Computer Science](https://www1.cs.ucr.edu/programs/undergraduate/computer-science) & [Electrical Engineering](https://www.ece.ucr.edu/undergraduate-program) & [Business](https://business.ucr.edu/undergraduate/major)_
 -  **Actual GPA:** 4.0 / 4.0
