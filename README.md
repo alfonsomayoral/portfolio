@@ -15,6 +15,7 @@
 -  **Relevant Coursework:** [Principles of Engineering Management](https://msol.ucr.edu/courses/engr203), [Machine Learning & Data Mining](https://www.coursicle.com/ucr/courses/CS/171/), [Project Planning and Control](https://www.coursicle.com/ucr/courses/BUS/128/), [Computer Vision](https://www.coursicle.com/ucr/courses/EE/146/), [Mobile Wireless Networks](https://www.coursicle.com/ucr/courses/CS/169/), [Data Analysis Methods](https://www.coursicle.com/ucr/courses/CS/105/), [Cryptography](https://www.coursicle.com/ucr/courses/CS/216/)
 
 ## 👨‍💻 Projects
+🎨 **[Image Color Quantization using K-means Clustering and PCA](https://github.com/alfonsomayoral/ImageColorQuantization_PythonProject)**
 
 ## 💼 Profesional Work Experience
 ### **Campus I.T | Intern & S.A.P Junior Consultor | Madrid (_Sep 2022 - Apr 2024_)**
