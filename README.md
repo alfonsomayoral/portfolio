@@ -16,6 +16,7 @@
 
 ## 👨‍💻 Projects
 🎨 **[Image Color Quantization using K-means Clustering and PCA](https://github.com/alfonsomayoral/ImageColorQuantization_PythonProject)**
+
 🔍 **[Optimized IP Route Lookup Using Compressed Binary Trees](https://github.com/alfonsomayoral/Optimized-IP-Route-Lookup-Using-Compressed-Binary-Trees)**
 
 ## 💼 Profesional Work Experience
