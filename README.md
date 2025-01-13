@@ -19,6 +19,8 @@
 
 🔍 **[Optimized IP Route Lookup Using Compressed Binary Trees](https://github.com/alfonsomayoral/Optimized-IP-Route-Lookup-Using-Compressed-Binary-Trees)**
 
+🤖 **[STM32L-Discovery_Mobile_Robot](https://github.com/alfonsomayoral/STM32L-Discovery_Mobile_Robot)**
+
 ## 💼 Profesional Work Experience
 ### **Campus I.T | Intern & S.A.P Junior Consultor | Madrid (_Sep 2022 - Apr 2024_)**
 - Campus I.T is a Spanish sME consulting S.A.P company dedicated to adapting the system to the requirements of each company and the robotization of manual and repetitive business processes.
