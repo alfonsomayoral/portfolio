@@ -19,7 +19,7 @@
 
 🔍 **[Optimized IP Route Lookup Using Compressed Binary Trees](https://github.com/alfonsomayoral/Optimized-IP-Route-Lookup-Using-Compressed-Binary-Trees)**
 
-🤖 **[STM32L-Discovery_Mobile_Robot](https://github.com/alfonsomayoral/STM32L-Discovery_Mobile_Robot)**
+🤖 **[Embedded Systems-Based Mobile Robot Using STM32L-Discovery](https://github.com/alfonsomayoral/STM32L-Discovery_Mobile_Robot)**
 
 ## 💼 Profesional Work Experience
 ### **Campus I.T | Intern & S.A.P Junior Consultor | Madrid (_Sep 2022 - Apr 2024_)**
