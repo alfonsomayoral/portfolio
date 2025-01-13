@@ -2,7 +2,7 @@
 
 ## 🎓 Education
 ### **Higher Polytechnic School of the Carlos III University of Madrid, Spain (_Sep 2021 - Present_)**
-#### [_Bachelor in Telecommunications Technology Engineering, 4º Year_](https://www.uc3m.es/bachelor-degree/telecommunication)
+#### [Bachelor in Telecommunications Technology Engineering, 4º Year_](https://www.uc3m.es/bachelor-degree/telecommunication)
 - **Actual GPA:** 3.4 / 4.0
 - **Relevant Coursework:**
    - ⚡ **_Electronics and Hardware Design:_** Electronic components and circuits, Electronic Systems, Microprocessor based digital systems, Integrated circuits and microelectronic, High frequency technology
