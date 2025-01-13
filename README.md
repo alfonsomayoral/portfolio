@@ -15,11 +15,11 @@
 -  **Relevant Coursework:** [Principles of Engineering Management](https://msol.ucr.edu/courses/engr203), [Machine Learning & Data Mining](https://www.coursicle.com/ucr/courses/CS/171/), [Project Planning and Control](https://www.coursicle.com/ucr/courses/BUS/128/), [Computer Vision](https://www.coursicle.com/ucr/courses/EE/146/), [Mobile Wireless Networks](https://www.coursicle.com/ucr/courses/CS/169/), [Data Analysis Methods](https://www.coursicle.com/ucr/courses/CS/105/), [Cryptography](https://www.coursicle.com/ucr/courses/CS/216/)
 
 ## 👨‍💻 Projects
+🤖 **[Embedded Systems-Based Mobile Robot Using STM32L-Discovery](https://github.com/alfonsomayoral/Embedded-Systems-Based-Mobile-Robot-Using-STM32L-Discovery)**
+
 🎨 **[Image Color Quantization using K-means Clustering and PCA](https://github.com/alfonsomayoral/ImageColorQuantization_PythonProject)**
 
 🔍 **[Optimized IP Route Lookup Using Compressed Binary Trees](https://github.com/alfonsomayoral/Optimized-IP-Route-Lookup-Using-Compressed-Binary-Trees)**
-
-🤖 **[Embedded Systems-Based Mobile Robot Using STM32L-Discovery](https://github.com/alfonsomayoral/STM32L-Discovery_Mobile_Robot)**
 
 ## 💼 Profesional Work Experience
 ### **Campus I.T | Intern & S.A.P Junior Consultor | Madrid (_Sep 2022 - Apr 2024_)**
