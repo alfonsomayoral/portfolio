@@ -1,7 +1,7 @@
-# Electrical Engineering & Computer Science Student
+# Electrical Engineering & Computer Science
 
 ## 🎓 Education
-### **Higher Polytechnic School of the Carlos III University of Madrid, Spain (_Sep 2021 - Present_)**
+### **Higher Polytechnic School of the Carlos III University of Madrid, Spain** | *Sep. 2021 - Jun 2026*
 #### [Bachelor in Telecommunications Technology Engineering, 4º Year_](https://www.uc3m.es/bachelor-degree/telecommunication)
 - **Actual GPA:** 3.4 / 4.0
 - **Relevant Coursework:**
@@ -9,7 +9,7 @@
    - 🖥️ **_Software Design:_** Systems Programming, Systems Architecture, Switching
    - 🛰️ **_Telecommunications and Networking:_** Communication Theory, Communications networks and services, Access networks and shared media, Modern theory of detection and estimation, Telematic Applications
   
-### **University of California, Riverside - Bourns College of Engineering & School of Business (_Sep 2024 - Present_)**
+### **University of California, Riverside - Bourns College of Engineering & School of Business** | *Sep 2024 - Jun 2025*
 #### _Exchage Year, [Computer Science](https://www1.cs.ucr.edu/programs/undergraduate/computer-science) & [Electrical Engineering](https://www.ece.ucr.edu/undergraduate-program) & [Business](https://business.ucr.edu/undergraduate/major)_
 -  **Actual GPA:** 4.0 / 4.0
 -  **Relevant Coursework:** [Principles of Engineering Management](https://msol.ucr.edu/courses/engr203), [Machine Learning & Data Mining](https://www.coursicle.com/ucr/courses/CS/171/), [Project Planning and Control](https://www.coursicle.com/ucr/courses/BUS/128/), [Computer Vision](https://www.coursicle.com/ucr/courses/EE/146/), [Mobile Wireless Networks](https://www.coursicle.com/ucr/courses/CS/169/), [Data Analysis Methods](https://www.coursicle.com/ucr/courses/CS/105/), [Cryptography](https://www.coursicle.com/ucr/courses/CS/216/)
