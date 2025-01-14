@@ -21,6 +21,8 @@
 
 🔍 **[Optimized IP Route Lookup Using Compressed Binary Trees](https://github.com/alfonsomayoral/Optimized-IP-Route-Lookup-Using-Compressed-Binary-Trees)**
 
+🔢 **[MNIST Handwritten Digit Classification using a Multi-Layer Neural Network](https://github.com/alfonsomayoral/MNIST-Handwritten-Digit-Classification-Using-a-Multi-Layer-Neural-Network)**
+
 ## 💼 Profesional Work Experience
 ### **Campus I.T | Intern & S.A.P Junior Consultor | Madrid (_Sep 2022 - Apr 2024_)**
 - Campus I.T is a Spanish sME consulting S.A.P company dedicated to adapting the system to the requirements of each company and the robotization of manual and repetitive business processes.
