@@ -17,7 +17,7 @@
 ## 👨‍💻 Projects
 🤖 **[Embedded Systems-Based Mobile Robot Using STM32L-Discovery](https://github.com/alfonsomayoral/Embedded-Systems-Based-Mobile-Robot-Using-STM32L-Discovery)**
 
-🎨 **[Image Color Quantization using K-means Clustering and PCA](https://github.com/alfonsomayoral/ImageColorQuantization_PythonProject)**
+🎨 **[Image Color Quantization Using K-means Clustering and PCA](https://github.com/alfonsomayoral/ImageColorQuantization_PythonProject)**
 
 🔍 **[Optimized IP Route Lookup Using Compressed Binary Trees](https://github.com/alfonsomayoral/Optimized-IP-Route-Lookup-Using-Compressed-Binary-Trees)**
 
