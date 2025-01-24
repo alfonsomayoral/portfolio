@@ -3,7 +3,7 @@
 ## 🎓 Education
 ### **Higher Polytechnic School of the Carlos III University of Madrid, Spain** | *Sep. 2021 - Jun 2026*
 #### [Bachelor in Telecommunications Technology Engineering, 4º Year_](https://www.uc3m.es/bachelor-degree/telecommunication)
-- **Actual GPA:** 3.5 / 4.0
+- **Actual GPA:** 3.5 / 4.0 (_only taking into account the grades from 1st to 3rd_)
 - **Relevant Coursework:**
    - ⚡ **_Electronics and Hardware Design:_** [Electronic components and circuits](https://aplicaciones.uc3m.es/cpa/generaFicha?est=252&anio=2024&plan=445&asig=15374&idioma=2), [Electronic Systems](https://aplicaciones.uc3m.es/cpa/generaFicha?est=252&plan=445&asig=15383&idioma=2), [Microprocessor based digital systems](https://aplicaciones.uc3m.es/cpa/generaFicha?est=252&plan=445&asig=15380&idioma=2), [Integrated circuits and microelectronic](https://aplicaciones.uc3m.es/cpa/generaFicha?est=252&plan=445&asig=15389&idioma=2), [High frequency technology](https://aplicaciones.uc3m.es/cpa/generaFicha?est=252&plan=445&asig=15387&idioma=2)
    - 🖥️ **_Software Design:_** [Systems Programming](https://aplicaciones.uc3m.es/cpa/generaFicha?est=252&plan=445&asig=15370&idioma=2), [Systems Architecture](https://aplicaciones.uc3m.es/cpa/generaFicha?est=252&plan=445&asig=15376&idioma=2), [Switching](https://aplicaciones.uc3m.es/cpa/generaFicha?est=252&plan=445&asig=15390&idioma=2)
