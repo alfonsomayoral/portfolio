@@ -1,6 +1,6 @@
-# Electrical Engineering & Computer Science
+# Telecommunications Technology Engineering & Computer Science
 
-> Telecommunications Technology Engineering @ **UC3M** (2021–2026) · Exchange @ **UCR** (2024–2025) · AI engineering & student leadership
+> Telecommunications Technology Engineering @ **UC3M** (2021–2026) · Exchange @ **UCR** (2024–2025) · AI engineering & Computer Science & Electrical Engineering
 
 ## 🧭 Table of Contents
 - 👨‍💻 [Projects](#projects)
