@@ -1,5 +1,15 @@
 # Electrical Engineering & Computer Science
 
+> Telecommunications Technology Engineering @ **UC3M** (2021–2026) · Exchange @ **UCR** (2024–2025) · AI engineering & student leadership
+
+## 🧭 Table of Contents
+- 🎓 [Education](#education)
+- 👨‍💻 [Projects](#projects)
+- 💼 [Professional Experience](#professional-experience)
+- 💻 [Technical Skills](#technical-skills)
+- 🌐 [Languages](#languages)
+- 💡 [Soft Skills](#soft-skills)
+
 ## 🎓 Education
 ### **Higher Polytechnic School of the Carlos III University of Madrid, Spain** | *Sep. 2021 - Jun 2026*
 #### [Bachelor in Telecommunications Technology Engineering, 4º Year_](https://www.uc3m.es/bachelor-degree/telecommunication)
@@ -12,9 +22,24 @@
 ### **University of California, Riverside - Bourns College of Engineering & School of Business** | *Sep 2024 - Jun 2025*
 #### _Exchage Year, [Computer Science](https://www1.cs.ucr.edu/programs/undergraduate/computer-science) & [Electrical Engineering](https://www.ece.ucr.edu/undergraduate-program) & [Business](https://business.ucr.edu/undergraduate/major)_
 -  **Actual GPA:** 4.0 / 4.0
--  **Relevant Coursework:** [Principles of Engineering Management](https://msol.ucr.edu/courses/engr203), [Machine Learning & Data Mining](https://www.coursicle.com/ucr/courses/CS/171/), [Project Planning and Control](https://www.coursicle.com/ucr/courses/BUS/128/), [Computer Vision](https://www.coursicle.com/ucr/courses/EE/146/), [Mobile Wireless Networks](https://www.coursicle.com/ucr/courses/CS/169/), [Data Analysis Methods](https://www.coursicle.com/ucr/courses/CS/105/), [Cryptography](https://www.coursicle.com/ucr/courses/CS/216/)
+-  **Relevant Graduate Coursework:**
+    - [Principles of Engineering Management](https://msol.ucr.edu/courses/engr203)
+    - [Natural Language Processing](https://www.coursicle.com/ucr/courses/CS/222/)
+    - [Cryptography](https://www.coursicle.com/ucr/courses/CS/216/)
+-  **Relevant Undergraduate Coursework:**
+    -  [Machine Learning & Data Mining](https://www.coursicle.com/ucr/courses/CS/171/)
+    -  [Computer Vision](https://www.coursicle.com/ucr/courses/EE/146/)
+    -  [Artificial Intelligence](https://www.coursicle.com/ucr/courses/CS/170/)
+    -  [Mobile Wireless Networks](https://www.coursicle.com/ucr/courses/CS/169/)
+    -  [Data Analysis Methods](https://www.coursicle.com/ucr/courses/CS/105/)
+    -  [Project Planning and Control](https://www.coursicle.com/ucr/courses/BUS/128/)
+    -  [Bussiness Data Communications](https://www.coursicle.com/ucr/courses/BUS/175/)
 
 ## 👨‍💻 Projects
+  **[AISC@Riverside Competitive Project - AI Interview Assistant](https://github.com/alfonsomayoral/AISC_Competitive_Project_Web)
+
+🏆 **[UCR Hackathon 3rd place Project - Bad Posture Detection System using AI and Computer Vision](https://github.com/alfonsomayoral/BearHack_Project/tree/main)**
+
 🤖 **[Embedded Systems-Based Mobile Robot Using STM32L-Discovery](https://github.com/alfonsomayoral/Embedded-Systems-Based-Mobile-Robot-Using-STM32L-Discovery)**
 
 🎨 **[Image Color Quantization Using K-means Clustering and PCA](https://github.com/alfonsomayoral/ImageColorQuantization_PythonProject)**
@@ -23,28 +48,51 @@
 
 🔢 **[MNIST Handwritten Digits Classification Using Multi-Layer Neural Network](https://github.com/alfonsomayoral/MNIST-Handwritten-Digit-Classification-Using-a-Multi-Layer-Neural-Network)**
 
-## 💼 Profesional Work Experience
-### **Campus I.T | Intern & S.A.P Junior Consultor | Madrid (_Sep 2022 - Apr 2024_)**
-- Campus I.T is a Spanish sME consulting S.A.P company dedicated to adapting the system to the requirements of each company and the robotization of manual and repetitive business processes.
-- Work as assistant of an expert in SAP consulting in projects with big companies: El Corte Inglés, Telefónica, Banco Santander, Mapfre.
+## 💼 Profesional Experience
+### **Suntory Global Spirits** | *AI Engineer Jr* *(Sep 2025 – Present, incoming)*
+- Design and delivery of effective AI solutions and process automations across internal workflows.
+- Build PoCs and production-ready tools focused on measurable impact and efficiency.
 
 ### **Telefonica Business Solutions |  Talentum Scholarship Holder (_Jun 2022 - Aug 2022_)**
 - Selected to participate in practical training periods in software development as an intern in the workplaces of companies of the Telefónica Group under the supervision of tutors.
 - Gaining insights into Telefónica through case studies and seminars. Listened to 10+ lectures by professionals and solved 2 real-world case problems.
 - Participation in +8 professional team-building workshops on topics related to data analysis, artificial intelligence, and software development
 
+### **AISC Madrid (UC3M)** | *Vice President & Co-founder* *(Jul 2025 – Present)*
+- Co-founded the **first AISC chapter in Europe** and the **first AI student association at UC3M**.
+- Mission pillars:
+  -  Develop practical, in-demand AI skills among students.
+  -  Bridge academia and industry through talks, mentorship, and events.
+  -  Build an active, collaborative community around AI.
+
+### **AISC Riverside** | *Competitive Projects Team Member* *(Sep 2024 – Jun 2025)*
+- Directed **3 workshops** for **30+** participants on AI, machine learning, NLP, and computer vision.
+- Member of the competitive AI team developing **real-time video-call interview sentiment analysis** software.
+- Drove tech-literacy initiatives, actionable events, and education programs for all students.
+- Strengthened teamwork and communication through cross-functional collaborations on AI projects.
+
+
 ## 💻 Technical Skills
-**Programming Languages**: Python (Advanced), C (Advanced), Java (Medium), C++ (Medium), MATLAB (Medium), ABAP (Basic), Excel-VisualBasic (Basic)
+**Programming Languages**:
+   - **Python** (Proficient)
+   - **C** (Proficient)
+   - **VHDL** (Proficient)
+   - **Java** (Competent)
+   - **TypeScript** (Competent)
+   - **C++** (Competent)
+   - **MATLAB** (Competent)
+   - **HTML** (Basic)
+   - **Excel-VisualBasic** (Basic)
+   - **SQL** (Basic)
 
-**Tools**: Visual Studio Code, Valgrind, GDB, Jupyter, Eclipse, IntelliJ IDEA, MATLAB IDE, Simulink
+**Tools**: Visual Studio Code, CUDA, Git, Valgrind, GDB, Jupyter, Eclipse, IntelliJ IDEA, MATLAB IDE, Simulink
 
-**Libraries**: Pandas, Numpy, Flask, Matplotlib/Seaborn, OpenSSL, Standard C, GLib, libcurl, JDK, JUnit.
+**Libraries**: PyTorch, Keras, scikit-learn, NLKT, Trasformers, openCV, NumPy, Numpy, Flask, Matplotlib/Seaborn, OpenSSL, Standard C, GLib, libcurl, JDK, JUnit.
 
 ## 🌐 Languages 
 - **Spanish** - Native
 - **English** - Fluent - B2 Certificate
 
-## 💡 Valuable Skills
+## 💡 Soft Skills
 - Leadership, Teamwork, Organization, Planning, Public Speaking, Presenting, Creativity, Initiative and Scheduling.
-
 
