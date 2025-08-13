@@ -36,7 +36,7 @@
     -  [Bussiness Data Communications](https://www.coursicle.com/ucr/courses/BUS/175/)
 
 ## 👨‍💻 Projects
-  **[AISC@Riverside Competitive Project - AI Interview Assistant](https://github.com/alfonsomayoral/AISC_Competitive_Project_Web)
+<img src="img/aisc.svg" width="20" height="20" alt="aisc icon">  **[AISC@Riverside Competitive Project - AI Interview Assistant](https://github.com/alfonsomayoral/AISC_Competitive_Project_Web)
 
 🏆 **[UCR Hackathon 3rd place Project - Bad Posture Detection System using AI and Computer Vision](https://github.com/alfonsomayoral/BearHack_Project/tree/main)**
 
